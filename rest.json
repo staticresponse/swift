@@ -1,0 +1,52 @@
+{
+	"Drinks": [{
+			"name": "Gin Fizz",
+			"directions": "Pour 2oz gin, 1oz lemon juice, 3/4oz simple syrup, and egg white into a cocktail shaker filled with ice. Shake then strain into a glass. Top off with soda water",
+			"primaryIng": "Gin",
+			"ing2": "Lemon Juice",
+			"ing3": "Simple Syrup",
+			"ing4": "Soda Water",
+			"ing5": "Egg White",
+			"ing6": "",
+			"ing7": "",
+			"vid": "https://www.youtube.com/watch?v=_eXt7_ZDx3s"
+		},
+		{
+			"name": "Hurricane",
+			"directions": "Fill a shaker with ice. Add 2oz of each ingeredient, the squeezed lime juice, and shake. Pour into a glass. Garnish with an Orange wedge and cherry",
+			"primaryIng": "Dark Rum",
+			"ing2": "Light Rum",
+			"ing3": "Passionfruit Juice",
+			"ing4": "Orange Juice",
+			"ing5": "1/2 Squeezed Lime",
+			"ing6": "Simple Syrup",
+			"ing7": "Grenadine",
+			"vid": "https://www.youtube.com/watch?v=aIC56QCd8Zc"
+		},
+    {
+  			"name": "Espresso Martini",
+  			"directions": "Fill a shaker with ice. Add 2 oz vodka, 1/2 oz simple syrup, 1/2 oz coffee liqueur. Strain into a glass. Garnish with coffee beans",
+  			"primaryIng": "Vodka",
+  			"ing2": "Coffee Liqueur",
+  			"ing3": "Simple Syrup",
+  			"ing4": "Espresso",
+  			"ing5": "",
+  			"ing6": "",
+  			"ing7": "",
+  			"vid": "https://www.youtube.com/watch?v=nyRjNfDKQw4"
+  		},
+      {
+    			"name": "Lost Plane",
+    			"directions": "Fill a shaker with ice. Add 3/4 oz of each ingredient and shake. Strain into a glass. Garnish with a lemon twist",
+    			"primaryIng": "Dark Rum",
+    			"ing2": "Aperol",
+    			"ing3": "Bitters",
+    			"ing4": "Lemon Juice",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+    			"vid": "https://www.youtube.com/watch?v=A3Kc06KUVT4"
+    	}
+	],
+	"Status": "OK"
+}
