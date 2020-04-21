@@ -102,6 +102,19 @@
     			"ing7": "",
 	      		"img":"https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2017/02/Pegu_Club_Gin_Cocktail.jpg",
     			"vid": "https://www.youtube.com/watch?v=5M9T_S2U3Z0"
+    		},
+		{
+    			"name": "Tom Colliins",
+    			"directions": "Pour 2 oz gin, 1 oz lemon juice, and 1/2 oz simple syrup a glass and top with ice. Garnish with a lemon wedge",
+    			"primaryIng": "Gin",
+    			"ing2": "Lemon Juice",
+    			"ing3": "Simple Syrup",
+    			"ing4": "",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+	      		"img":"https://www.seriouseats.com/recipes/images/2015/04/20150323-cocktails-vicky-wasik-tom-collins-1500x1125.jpg",
+    			"vid": "https://www.youtube.com/watch?v=bK_kBsqqA0I"
     		}
 	],
 	"Status": "OK"
