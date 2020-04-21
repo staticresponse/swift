@@ -115,6 +115,19 @@
     			"ing7": "",
 	      		"img":"https://www.seriouseats.com/recipes/images/2015/04/20150323-cocktails-vicky-wasik-tom-collins-1500x1125.jpg",
     			"vid": "https://www.youtube.com/watch?v=bK_kBsqqA0I"
+    		},
+		{
+    			"name": "Gin Daisy",
+    			"directions": "Pour 2 oz gin, 1 oz lemon juice, 1.5 tsp sugar, and 1/2 tsp grenadine into a shaker with ice. Shake and strain into a glass. Garnish with a orange wedge and cherry",
+    			"primaryIng": "Gin",
+    			"ing2": "Lemon Juice",
+    			"ing3": "Sugar",
+    			"ing4": "Grenadine",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+	      		"img":"https://ginobserver.com/wp-content/uploads/2019/03/Gin-Daisy-Gin-Observer-960x462.jpg",
+    			"vid": "https://www.youtube.com/watch?v=-uK-ZXg7fZQ"
     		}
 	],
 	"Status": "OK"
