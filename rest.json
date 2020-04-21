@@ -89,6 +89,19 @@
     			"ing7": "Lemon Juice",
 	      		"img":"https://images.kitchenstories.io/recipeImages/LongIslandIcedTea_4x3/LongIslandIcedTea_4x3-large-landscape-150.jpg",
     			"vid": "https://www.youtube.com/watch?v=Kq9uYfJvtG4&list=PLSOyd4ZezLoc4ainbDbl-hAysG22PHPic&index=5&t=0s"
+    		},
+		{
+    			"name": "Valencia",
+    			"directions": "Pour 1.5 oz Brandy, 1 tblsp orange juice, and 2 dashes of bitters into a shaker with ice. strain into a cocktail glass. Garnish with an orange peel",
+    			"primaryIng": "Brandy",
+    			"ing2": "Orange Juice",
+    			"ing3": "Orange Bitters",
+    			"ing4": "",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+	      		"img":"https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2017/02/Pegu_Club_Gin_Cocktail.jpg",
+    			"vid": "https://www.youtube.com/watch?v=5M9T_S2U3Z0"
     		}
 	],
 	"Status": "OK"
