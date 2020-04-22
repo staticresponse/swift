@@ -25,19 +25,6 @@
 			"img":"https://hips.hearstapps.com/del.h-cdn.co/assets/16/17/1461679817-shot-1-151.jpg",
 			"vid": "https://www.youtube.com/watch?v=aIC56QCd8Zc"
 		},
-    		{
-  			"name": "Espresso Martini",
-  			"directions": "Fill a shaker with ice. Add 2 oz vodka, 1/2 oz simple syrup, 1/2 oz coffee liqueur. Strain into a glass. Garnish with coffee beans",
-  			"primaryIng": "Vodka",
-  			"ing2": "Coffee Liqueur",
-  			"ing3": "Simple Syrup",
-  			"ing4": "Espresso",
-  			"ing5": "",
-  			"ing6": "",
-  			"ing7": "",
-	    		"img":"https://www.greygoose.com/binaries/content/gallery/greygoose/cocktails/grey-goose-vodka/grey-goose-espresso-martini/portrait.jpg",
-  			"vid": "https://www.youtube.com/watch?v=nyRjNfDKQw4"
-  		},
       		{
     			"name": "Lost Plane",
     			"directions": "Fill a shaker with ice. Add 3/4 oz of each ingredient and shake. Strain into a glass. Garnish with a lemon twist",
@@ -52,22 +39,9 @@
     			"vid": "https://www.youtube.com/watch?v=A3Kc06KUVT4"
     		},
 		{
-    			"name": "Aperol Spritz",
-    			"directions": "Add 3 oz prosecco, 2 oz aperol, 1 oz soda water to a wine glass. Garnish with an orange wedge",
-    			"primaryIng": "Aperol",
-    			"ing2": "Prosecco",
-    			"ing3": "Club Soda",
-    			"ing4": "",
-    			"ing5": "",
-    			"ing6": "",
-    			"ing7": "",
-	      		"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Aperol_Spritz_aboard_Viking_Mariella.jpg/1200px-Aperol_Spritz_aboard_Viking_Mariella.jpg",
-    			"vid": "https://www.youtube.com/watch?v=pF-13rXxGLc"
-    		},
-		{
     			"name": "Gimlet",
-    			"directions": "Add 3 oz vodka, 1/2 oz lime juice, 1/2 oz simple syrup to a shaker. Shake and strain over ice. Garnish with a lime wedge",
-    			"primaryIng": "Vodka",
+    			"directions": "Add 3 oz gin, 1/2 oz lime juice, 1/2 oz simple syrup to a shaker. Shake and strain over ice. Garnish with a lime wedge",
+    			"primaryIng": "Gin",
     			"ing2": "Lime Juice",
     			"ing3": "Simple Syrup",
     			"ing4": "",
@@ -89,19 +63,6 @@
     			"ing7": "Lemon Juice",
 	      		"img":"https://images.kitchenstories.io/recipeImages/LongIslandIcedTea_4x3/LongIslandIcedTea_4x3-large-landscape-150.jpg",
     			"vid": "https://www.youtube.com/watch?v=Kq9uYfJvtG4&list=PLSOyd4ZezLoc4ainbDbl-hAysG22PHPic&index=5&t=0s"
-    		},
-		{
-    			"name": "Valencia",
-    			"directions": "Pour 1.5 oz Brandy, 1 tblsp orange juice, and 2 dashes of bitters into a shaker with ice. strain into a cocktail glass. Garnish with an orange peel",
-    			"primaryIng": "Brandy",
-    			"ing2": "Orange Juice",
-    			"ing3": "Orange Bitters",
-    			"ing4": "",
-    			"ing5": "",
-    			"ing6": "",
-    			"ing7": "",
-	      		"img":"https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2017/02/Pegu_Club_Gin_Cocktail.jpg",
-    			"vid": "https://www.youtube.com/watch?v=5M9T_S2U3Z0"
     		},
 		{
     			"name": "Tom Colliins",
@@ -128,6 +89,45 @@
     			"ing7": "",
 	      		"img":"https://ginobserver.com/wp-content/uploads/2019/03/Gin-Daisy-Gin-Observer-960x462.jpg",
     			"vid": "https://www.youtube.com/watch?v=-uK-ZXg7fZQ"
+    		},
+		{
+    			"name": "Dark and Stormy",
+    			"directions": "Pour 2 oz rum, 3oz ginger beer, and 1/2 oz lime juice over ice. Garnish with a lime wedge.",
+    			"primaryIng": "Dark Rum",
+    			"ing2": "Ginger Beer",
+    			"ing3": "Lime Juice",
+    			"ing4": "",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+	      		"img":"https://tipsyvideo.imgix.net/dark-n-stormy/poster.jpg",
+    			"vid": "https://www.youtube.com/watch?v=FT43iTg0RYQ"
+    		},
+		{
+    			"name": "Daiquiri",
+    			"directions": "Add 2 oz rum, 1 oz lime juice, 3/4 oz simple syrup to a shaker full of ice. Strain into glass. Garnish with a lime twist. *Blend the ingredients with ice for a frozen version*",
+    			"primaryIng": "Light Rum",
+    			"ing2": "Lime Juice",
+    			"ing3": "Simple Syrup",
+    			"ing4": "",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+	      		"img":"https://www.liquor.com/thmb/OTpNFWS4zPrvCQt7z4IV1pmBtoQ=/735x0/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__04__23143458__daiquiri-720x720-recipe-09f1d5665a794eddbbfb997876736136.jpg",
+    			"vid": ""
+    		},
+		{
+    			"name": "",
+    			"directions": "",
+    			"primaryIng": "",
+    			"ing2": "",
+    			"ing3": "",
+    			"ing4": "",
+    			"ing5": "",
+    			"ing6": "",
+    			"ing7": "",
+	      		"img":"",
+    			"vid": ""
     		}
 	],
 	"Status": "OK"
